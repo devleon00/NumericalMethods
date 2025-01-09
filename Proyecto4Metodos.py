@@ -5,7 +5,7 @@ import tkinter as tk
 from mpl_interactions import ioff, panhandler, zoom_factory
 from abc import ABC, abstractmethod
 from tkinter import messagebox
-from PIL import Image, ImageTk  # Import necessary modules for handling images
+from PIL import Image, ImageTk
 import sympy as sy 
 import math
 
